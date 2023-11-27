@@ -1,2 +1,2 @@
 # eagw.github.io
-East Asia Geomechanics Workshop
+2023 ARMA - East Asia Geomechanics Workshop
